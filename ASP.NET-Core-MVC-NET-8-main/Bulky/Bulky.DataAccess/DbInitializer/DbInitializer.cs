@@ -58,12 +58,12 @@ namespace BulkyBook.DataAccess.DbInitializer
                 {
                     UserName = "admin@dotnet.com",
                     Email = "admin@dotnet.com",
-                    Name = "DEBORAJ ROY",
+                    Name = "Kinjal Mistry",
                     PhoneNumber = "01708119559",
-                    StreetAddress = "VIKTORIA 123 Ave",
-                    State = "DK",
-                    PostalCode = "23422",
-                    City = "DHAKA"
+                    StreetAddress = "Kidney Hospital",
+                    State = "Gujarat",
+                    PostalCode = "387001",
+                    City = "Nadiad"
                 }, "Admin@123*").GetAwaiter().GetResult();
 
 
